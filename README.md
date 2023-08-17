@@ -1,6 +1,7 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Prathamesh Chavan</h1>
 <h3 align="center">A Passionate Full Stack / React.js Developer from India</h3>
+
+<img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshjchavan&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshjchavan" /> </p>
 
