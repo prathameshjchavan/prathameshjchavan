@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/webdevpratham" target="blank"><img src="https://img.shields.io/twitter/follow/webdevpratham?logo=twitter&style=for-the-badge" alt="webdevpratham" /></a> </p>
 
-- 🔭 I’m currently working on **ai image generator**
-
 - 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Next.js / React.js projects**
